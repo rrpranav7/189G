@@ -1,5 +1,5 @@
 from base.stage_2_code.Dataset_Loader import Dataset_Loader
-from base.stage_2_code.Method_MLP import Method_MLP
+from base.stage_2_code.Method_MLP_NLL import Method_MLP
 from base.stage_2_code.Result_Saver import Result_Saver
 from base.stage_2_code.Setting_Train_Test import Setting_Train_Test
 from base.stage_2_code.Evaluate_Accuracy import Evaluate_Accuracy
