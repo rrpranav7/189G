@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c1f59d1-7b71-414c-9cc9-e408d541a143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/base/stage_2_code/Method_MLP_NLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/stage_2_script/script_mlp_nll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/stage_2_code/Method_MLP.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/stage_2_code/Method_MLP_CE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/stage_2_script/script_mlp.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/stage_2_script/script_mlp_ce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,16 +27,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/pranavramesh/Documents/GitHub/189G/base/stage_2_code"
+    "last_opened_file_path": "/Users/pranavramesh/Documents/GitHub/189G/script"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/base/stage_2_code" />
-      <recent name="$PROJECT_DIR$/script/stage_2_script" />
-      <recent name="$PROJECT_DIR$/data/stage_2_data" />
       <recent name="$PROJECT_DIR$/script" />
       <recent name="$PROJECT_DIR$/result" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/base" />
+      <recent name="$PROJECT_DIR$/base/stage_2_code" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
