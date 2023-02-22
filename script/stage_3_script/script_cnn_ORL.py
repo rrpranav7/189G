@@ -12,7 +12,7 @@ if 1:
     np.random.seed(2)
     torch.manual_seed(2)
 
-    data_obj = Dataset_Loader('ORLL', '')
+    data_obj = Dataset_Loader('ORL', '')
     data_obj.dataset_source_folder_path = '../../data/stage_3_data/'
     data_obj.dataset_source_file_name = 'ORL'
 

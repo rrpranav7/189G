@@ -1,4 +1,4 @@
-from base.stage_3_code.Dataset_Loader_ORL import Dataset_Loader
+from base.stage_3_code.Dataset_Loader_CIFAR import Dataset_Loader
 from base.stage_3_code.Method_CNN_CIFAR import Method_CNN
 from base.stage_3_code.Result_Saver import Result_Saver
 from base.stage_3_code.Setting_Train_Test_CIFAR import Setting_Train_Test
