@@ -32,9 +32,9 @@ class Setting_Train_Test(setting):
             X_test.append(pair['image'])
             y_test.append(pair['label'])
 
-        X_test = torch.from_numpy(np.array(X_test)).float()
-        X_test = X_test.permute(0,3, 1, 2)
-        X_test, y_test = X_test.unsqueeze(1), np.array(y_test)-1
+        X_test = np.transpose(np.array(X_test), (0, 3, 1, 2))
+        X_test = torch.from_numpy(X_test).float()
+        X_test, y_test = X_test, np.array(y_test)-1
 
 
         # run MethodModule
