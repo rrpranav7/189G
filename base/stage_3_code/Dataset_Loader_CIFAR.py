@@ -33,9 +33,9 @@ class Dataset_Loader(dataset):
             X.append(pair['image'])
             y.append(pair['label'])
 
-        X = torch.from_numpy(np.array(X)).float()
-        X= X.permute(0,3, 1, 2)
-        X, y = X.unsqueeze(1), np.array(y)-1 #unsqueeze(1)
+        X = np.transpose(np.array(X), (0, 3, 1, 2))
+        X = torch.from_numpy(X).float()
+        X, y = X, np.array(y)
 
 
         # Use grayscale_image_tensor in your model for prediction
