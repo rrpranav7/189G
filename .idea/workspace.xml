@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1f59d1-7b71-414c-9cc9-e408d541a143" name="Changes" comment="">
+    <list default="true" id="9c1f59d1-7b71-414c-9cc9-e408d541a143" name="Changes" comment="#15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675054266118</updated>
     </task>
+    <task id="LOCAL-00001" summary="#15">
+      <created>1677106781127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677106781128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#15" />
+    <option name="LAST_COMMIT_MESSAGE" value="#15" />
   </component>
 </project>
