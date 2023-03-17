@@ -34,16 +34,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pranavramesh/Documents/GitHub/189G/base/stage_3_code&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/pranavramesh/Documents/GitHub/189G/base/base_class&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base/base_class" />
+      <recent name="$PROJECT_DIR$/script" />
       <recent name="$PROJECT_DIR$/base/stage_3_code" />
       <recent name="$PROJECT_DIR$/script/stage_3_script" />
       <recent name="$PROJECT_DIR$/data/stage_3_data" />
-      <recent name="$PROJECT_DIR$/result" />
-      <recent name="$PROJECT_DIR$/script" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
