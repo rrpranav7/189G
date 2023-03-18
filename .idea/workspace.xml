@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9c1f59d1-7b71-414c-9cc9-e408d541a143" name="Changes" comment="#15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stage_5_script/pygcn/utils_citeseer.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/stage_5_script/pygcn/utils_citeseer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stage_5_script/pygcn/utils_pubmed.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/stage_5_script/pygcn/utils_pubmed.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,15 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pranavramesh/Documents/GitHub/189G/base/base_class&quot;
+
+    &quot;last_opened_file_path&quot;: &quot;/Users/pranavramesh/Documents/GitHub/189G/script/stage_5_script/pygcn&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/base/base_class" />
-      <recent name="$PROJECT_DIR$/script" />
+
+      <recent name="$PROJECT_DIR$/script/stage_5_script/pygcn" />
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/base/stage_3_code" />
       <recent name="$PROJECT_DIR$/script/stage_3_script" />
       <recent name="$PROJECT_DIR$/data/stage_3_data" />

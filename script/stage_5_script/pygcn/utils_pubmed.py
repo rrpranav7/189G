@@ -38,9 +38,9 @@ def load_data(path="../data/stage_5_data/pubmed/", dataset="pubmed"):
     features = normalize(features)
     adj = normalize(adj + sp.eye(adj.shape[0]))
 
-    idx_train = range(140)
-    idx_val = range(200, 500)
-    idx_test = range(500, 1500)
+    idx_train = range(60)
+    idx_test = range(6300, 7300)
+    idx_val = range(6000, 6300)
 
     features = torch.FloatTensor(np.array(features.todense()))
     labels = torch.LongTensor(np.where(labels)[1])

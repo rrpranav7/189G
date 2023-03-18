@@ -38,9 +38,9 @@ def load_data(path="../data/stage_5_data/citeseer/", dataset="citeseer"):
     features = normalize(features)
     adj = normalize(adj + sp.eye(adj.shape[0]))
 
-    idx_train = range(140)
-    idx_val = range(200, 500)
-    idx_test = range(500, 1500)
+    idx_train = range(120)
+    idx_test = range(200, 1200)
+    idx_val = range(1200, 1500)
 
     features = torch.FloatTensor(np.array(features.todense()))
     labels = torch.LongTensor(np.where(labels)[1])
